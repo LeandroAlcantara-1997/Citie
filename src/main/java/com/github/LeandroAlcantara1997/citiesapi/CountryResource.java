@@ -2,7 +2,7 @@ package com.github.LeandroAlcantara1997.citiesapi;
 
 
 import com.github.LeandroAlcantara1997.citiesapi.countries.Country;
-import com.github.LeandroAlcantara1997.citiesapi.repository.CountryRepository;
+import com.github.LeandroAlcantara1997.citiesapi.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
